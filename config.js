@@ -17,7 +17,7 @@ const msgwelcomeimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const byemsgimg = (numero, groupname) => {
-    return `Adeus ${numero}`
+    return `Adiós ${numero}`
 }
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -31,7 +31,7 @@ const menumsgimg = (numero, groupname) => {
 const apikeyimgbb = 'api key do imgbb, crie sua conta e pegue a key'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
+const cr = 'ANONYMOUS BOT\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
