@@ -1,4 +1,4 @@
-const travas5 = () => { return `ANTI-TRAVAS BY ANONYMOUS DARK LEGION
+const travas5 = () => { return `TRAVAS BY ANONYMOUS DARK LEGION
 B
 
  ͈̱͈̥̺͈͇̠̲͚̱̞̞̥̮̬
