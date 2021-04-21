@@ -1,5 +1,5 @@
 const help = (p, date, user, wame) => {
-return `┏🔥ANONYMOUS BOT🔥┓
+return `┏🔥ANONYMOUS DARK LEGION BOT🔥┓
 ║                                                           
 ║ _*🕐 Fecha y hora: ${date} 🕐*_
 ║ _*🙂 Usuario: ${user} 🙂*_
